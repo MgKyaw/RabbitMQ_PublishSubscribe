@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "i7NWbaoS438=",
+  "dgSpecHash": "Wt4NUuD9Z8g=",
   "success": true,
   "projectFilePath": "D:\\project\\AspNet\\Learning\\RabbitMQ_PublishSubscribe\\ReceiveLog\\ReceiveLog.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Kyaw\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
+    "C:\\Users\\Kyaw\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\Kyaw\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
